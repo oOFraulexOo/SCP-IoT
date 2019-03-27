@@ -3,6 +3,9 @@
 ## Exercises
 These are the 5 technical hands-on workshop exercises for the SAP Leonardo Internet of Things sessions.
 
+The videos for all of these sessions are in this SAP HANA Academy Playlist ; 
+https://www.youtube.com/playlist?list=PLkzo92owKnVzQ7YTkThwiTGOautId39g6
+
 # INDEX OF EXERCISES 
 
 ### Leonardo Internet of Things Foundation
