@@ -6,7 +6,7 @@ import json
 deviceAlternateId = '?'               # the device Alternate ID
 sensorAlternateId = '?'               # the sensor Alternate ID
 capabilityAlternateId = '?'       # the capability Alternate ID
-tenant = 'd389b179-421b-45a1-8eae-4efa74113a58.eu10.cp.iot.sap' # the IoT Service Host Name
+tenant = '?' # the IoT Service Host Name
 
 start = 'https://'
 main = '/iot/gateway/rest/measures/'
