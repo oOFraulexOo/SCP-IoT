@@ -127,7 +127,7 @@ In case for example you want to send data from your Raspberry PI, you may want t
 1. In your folder you should have now two files: a certificate "*certificate.pem*" and a key "*certificate.key*". The "*privkey.pem*" can be deleted because no longer needed  
 	![](images/174.png)
 
-1. Inside this folder create a new file named *send\_data.py* with the following content
+1. Inside this folder create a new file named *send\_data.py* with the following content (which you can also copy from https://raw.githubusercontent.com/saphanaacademy/SCP-IoT/master/send_data.py) ; 
 
 	```py
 	import sys
