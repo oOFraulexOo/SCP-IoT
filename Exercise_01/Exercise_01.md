@@ -54,10 +54,10 @@ The SAP Cloud Platform Internet of Things Service enables customers and partners
 Centralized Device data model provides the schema of device related configurations including the data fields that will be exchanged. In order to send data to the IoT service a device data model is required. The device entity must have at least one sensor assigned to it. In case, no sensor is created beforehand a Sensor will be automatically created during data ingestion (default behavior). A new sensor type can be added with capabilities(measures/commands). A capability can be reused since it can be assigned to multiple sensor types and each capability can have one or many properties. 
 In the section below, using the IoT Service Cockpit, initially two capabilities("Soil pH and Moisture") are created, then a sensor type is created and the capabilities are assigned to it. A device is then created and will have one sensor, which is of the custom sensor type.
 
-1.	Open the browser and navigate to the IoT Service Cockpit URL and log on with the tenant user credentials, provided by the instructor.  
+1.	Open the browser and navigate to the IoT Service Cockpit URL. 
 	![](images/000.png)
 
-1. You should see ;
+1. 	You should see the following. Log on with the tenant user credentials, provided by the instructor.  
 	![](images/02.png)
 	
 1.	You'll see access to the tenant you have been allocated. You'll be using the ID for this tenant a few times during the workshops, so it's a good idea to note the ID number (in Notepad++ for example). When you have noted it, click on the tenant.
