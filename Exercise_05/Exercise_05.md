@@ -54,7 +54,8 @@ Here below are prerequisites for this exercise.
 
 ### <a name="create-device-model"></a> Create the device model
 The Thing that we will create later, in order to work properly, needs to be attached to a device. In this section we will create it in the IoT Service cockpit, together with a sensor and some properties. 
-	![](images/000.png)
+
+![](images/000.png)
 
 1. As per the image above, with Chrome, navigate to the **IoT Service cockpit** address within the **IoT - AE** bookmark folder provided by your instructor and login with the related credentials.
 
