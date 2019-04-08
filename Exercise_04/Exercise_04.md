@@ -208,11 +208,13 @@ In case for example you want to send data from your Raspberry PI, you may want t
 
 ## Optional: Turning your Windows RDP into an IoT Device !
 
-1. Here is some Python, which turns your Windows RDP into an IoT Device ;) It measures the CPU / Memory on the RDP. If you have time, go through the same steps as above (build a capability called "CPU", then a sensor type, device and sensor, and export the certificate, etc) and see if you can make it work ... you can change the values by simply opening / clsoing some apps (such as Chrome), to see the CPU increase/decrease. 
+1. Here is some Python, which turns your Windows RDP into an IoT Device ;) It measures the CPU / Memory on the RDP. If you have time, go through the same steps as above.
+
+1. You have 2 options. **One option** is to build a new capability called "CPU", then a new sensor type, new device and new sensor, and export the new certificate, so that you can generate the new keys and see if you can make it work. **Another easier option** is that you could just build a new capability called "CPU", then allocate it as an additional capability to your existing sensor type (which you built for the random data), which is already allocated to your device / sensor. You won't need a new certificate as it was created earlier and you won't need to generate new keys either (as again created earlier). See this video which details the steps if you are stuck https://www.youtube.com/watch?v=IKX7sij5vX0&list=PLkzo92owKnVzQ7YTkThwiTGOautId39g6&index=13.
+
+1. You can change the values by simply opening / closing some apps (such as Chrome), to see the CPU increase/decrease. 
 
 1. It is best to copy the code from https://raw.githubusercontent.com/saphanaacademy/SCP-IoT/master/send_CPU_data.py to avoid formatting issues). 
-
-1. Additionally, see this video which details the steps if you are stuck https://www.youtube.com/watch?v=IKX7sij5vX0&list=PLkzo92owKnVzQ7YTkThwiTGOautId39g6&index=13.
 
 	```py
 	import requests # http://docs.python-requests.org/en/master/
