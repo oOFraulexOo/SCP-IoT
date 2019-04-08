@@ -56,6 +56,7 @@ Here below are prerequisites for this exercise.
 The Thing that we will create later, in order to work properly, needs to be attached to a device. In this section we will create it in the IoT Service cockpit, together with a sensor and some properties.
 
 1. With Chrome, navigate to the **IoT Service cockpit** address within the **IoT - AE** bookmark folder provided by your instructor and login with the related credentials.
+	![](images/000.png)
 
 1. Select **Capabilities** and click on the **+** sign to create a new Capability. Enter the name **gh\_climate\_caps\_ae\_xx** where xx must be replaced with your workstation ID. Then click on the **+** sign to create a new property  
 	![](images/043.png)
