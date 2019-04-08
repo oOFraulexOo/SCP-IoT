@@ -55,6 +55,9 @@ Centralized Device data model provides the schema of device related configuratio
 In the section below, using the IoT Service Cockpit, initially two capabilities("Soil pH and Moisture") are created, then a sensor type is created and the capabilities are assigned to it. A device is then created and will have one sensor, which is of the custom sensor type.
 
 1.	Open the browser and navigate to the IoT Service Cockpit URL and log on with the tenant user credentials, provided by the instructor.  
+	![](images/000.png)
+
+1. You should see ;
 	![](images/02.png)
 	
 1.	You'll see access to the tenant you have been allocated. You'll be using the ID for this tenant a few times during the workshops, so it's a good idea to note the ID number (in Notepad++ for example). When you have noted it, click on the tenant.
