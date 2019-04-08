@@ -210,7 +210,9 @@ In case for example you want to send data from your Raspberry PI, you may want t
 
 1. Here is some Python, which turns your Windows RDP into an IoT Device ;) It measures the CPU / Memory on the RDP. If you have time, go through the same steps as above (build a capability called "CPU", then a sensor type, device and sensor, and export the certificate, etc) and see if you can make it work ... you can change the values by simply opening / clsoing some apps (such as Chrome), to see the CPU increase/decrease. 
 
-1. It is best to copy the code from https://raw.githubusercontent.com/saphanaacademy/SCP-IoT/master/send_CPU_data.py to avoid formatting issues). Additionally, see this video which details the steps if you are stuck https://www.youtube.com/watch?v=IKX7sij5vX0&list=PLkzo92owKnVzQ7YTkThwiTGOautId39g6&index=13.
+1. It is best to copy the code from https://raw.githubusercontent.com/saphanaacademy/SCP-IoT/master/send_CPU_data.py to avoid formatting issues). 
+
+1. Additionally, see this video which details the steps if you are stuck https://www.youtube.com/watch?v=IKX7sij5vX0&list=PLkzo92owKnVzQ7YTkThwiTGOautId39g6&index=13.
 
 	```py
 	import requests # http://docs.python-requests.org/en/master/
