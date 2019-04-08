@@ -57,7 +57,7 @@ The Thing that we will create later, in order to work properly, needs to be atta
 
 ![](images/000.png)
 
-1. As per the image above, with Chrome, navigate to the **IoT AE - IoT cockpit** address within the **IoT AE** bookmark folder provided by your instructor and login with the related credentials.
+1. As per the image above, with Chrome, navigate to the **IoT AE - IoT Cockpit** address within the **IoT AE** bookmark folder provided by your instructor and login with the related credentials.
 
 1. Select **Capabilities** and click on the **+** sign to create a new Capability. Enter the name **gh\_climate\_caps\_ae\_xx** where xx must be replaced with your workstation ID. Then click on the **+** sign to create a new property  
 	![](images/043.png)
