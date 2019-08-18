@@ -121,7 +121,7 @@ The Internet of Things service cockpit is the user interface of the Internet of 
 1. The Gateway Edge starts ...
 	![](images/24.png)
 
-1.	In the IoT Service cockpit, go to the **Gateways** menu. You should see the started gateway successfully running.  
+1.	In the IoT Service cockpit, go to the **Gateways** menu. You should see the started gateway successfully running. Don't worry if you see that the Gateway Edge is "Offline".  
 	![](images/23.png)
 
 1. Click on the **Capabilites** tab and then on the **+** sign to create a new capability.
