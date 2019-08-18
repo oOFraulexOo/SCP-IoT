@@ -230,10 +230,10 @@ In this step, we will send the data from Device Simulator that supports MQTT pro
 1. Replace the **<<< Soil\_pH Alternate ID >>>** with the Alternate ID of the Soil_pH capability  
 	![](images/35.png)
 
-1. Repeat the previous 2 steps for the other capability (Soil\_Moisture). At the end copy the JSON script you have created and paste it in the Message text area of your Paho Client. Then click **Publish**  
+1. At the end copy the JSON script you have created and paste it in the Message text area of your Paho Client. Then click **Publish**  
 	![](images/36.png)
 
-1. A new line is added to the history on the right. Repeat this step several times, each time by changing the values for Soil\_pH and Soil\_Moisture in the  measures section of the JSON file  
+1. A new line is added to the history on the right. Repeat this step several times, each time by changing the values for Soil\_pH in the  measures section of the JSON file. Also, try publishing data for the other capability (Soil\_Moisture).
 	![](images/37.png)
 
 1. At the end you should have a history with several different publications  
