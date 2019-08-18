@@ -214,7 +214,7 @@ At this point we need in some way to install the certificate we have downloaded 
 1. If you have Chrome and/or Postman open, please close all windows before proceeding. Then open a new Chrome browser and navigate to <chrome://apps> and Click on **Postman**
 	![](images/046.png)
 
-1. You will be prompted to download a desktop client of Postman. Just click on the X on the top right hand side of the pop up box. **DO NOT DOWNLOAD THE LATEST VERSION**. 
+1. You will be prompted to download a desktop client of Postman. Just click on the X on the top right hand side of the pop up box. **DO NOT DOWNLOAD THE NATIVE APP / LATEST VERSION**. 
 	![](images/046a.png)
 
 1. Choose **POST** as new request type and enter as URL the line
