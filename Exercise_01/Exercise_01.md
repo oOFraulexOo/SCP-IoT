@@ -212,8 +212,9 @@ In this step, we will send the data from Device Simulator that supports MQTT pro
 	"sensorAlternateId":"<<< Sensor Alternate ID >>>"
 	}
 	```
-     or
-     
+
+        or
+
      	```json
 	{
 	"capabilityAlternateId":[
